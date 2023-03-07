@@ -16,7 +16,6 @@ const Form = () => {
       country,
       ctc
     })
-    .then(() => console.log("Post Success"))
   }
 
   return (
